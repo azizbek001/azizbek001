@@ -7,7 +7,7 @@ from tkinter import filedialog
 master = Tk()
 master.title("Musiqa Playeri")
 master.configure(background = "gray")
-master.iconbitmap("Data/Icon/Music.ico")
+master.iconbitmap("Music.ico")
 
 
 current_valume = float(0.5)
